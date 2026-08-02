@@ -73,7 +73,7 @@ streamlit run app.py
 
 ## 🌐 Live Demo
 
-https://your-app-name.streamlit.app
+[https://your-app-name.streamlit.app](https://nlp-text-preprocessing-yf8krpsnqywa7obow6dphe.streamlit.app/)
 
 ---
 
