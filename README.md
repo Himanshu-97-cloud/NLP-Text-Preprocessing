@@ -73,10 +73,6 @@ streamlit run app.py
 
 ## 🌐 Live Demo
 
-Add your deployed Streamlit link here.
-
-Example:
-
 https://your-app-name.streamlit.app
 
 ---
