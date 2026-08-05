@@ -48,7 +48,7 @@ NLP-Text-Preprocessing/
 Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/NLP-Text-Preprocessing.git
+git clone https://github.com/Himanshu-97-cloud/NLP-Text-Preprocessing.git
 ```
 
 Move into the project
@@ -73,7 +73,7 @@ streamlit run app.py
 
 ## 🌐 Live Demo
 
-[https://your-app-name.streamlit.app](https://nlp-text-preprocessing-yf8krpsnqywa7obow6dphe.streamlit.app/)
+https://nlp-text-preprocessing-yf8krpsnqywa7obow6dphe.streamlit.app/
 
 ---
 
